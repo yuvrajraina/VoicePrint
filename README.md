@@ -2,7 +2,7 @@
 
 patch notes 1.0.0 16-05-2022
 
-->98.5% accuracy on validation set
+->96% accuracy on validation set
 
 ->4 users selected for testing
 
