@@ -16,3 +16,6 @@ Patch notes 1.0.1 21-05-2022
 
 ->98.33 % validation accuracy obtained
 
+Patch notes 1.0.2 8-6-2022
+
+-> more voice samples added for users selected
